@@ -71,7 +71,7 @@ void draw(){
       curveVertex(223,322);
       curveVertex(223,322);
       endShape();
-      if(endX > 280){
+      if(endX > 270){
         startX = 360;
         startY = 0;
         endX = 0;
